@@ -28,13 +28,25 @@ $gap-14: 512px;
 $gap-15: 640px;
 $gap-16: 768px;
 
-$nav-height: 60px;
-$border-radius: 5px;
+$small-border-radius: 4px;
+$border-radius: 4px;
+$large-border-radius: 4px;
 
-$black: #181818;
-$hyperlink-blue: #0a3b5a;
-$error-red: #c23616;
+$compact-sidebar-width: 50px;
+$extended-sidebar-width: 150px;
+$nav-height: 48px;
 
-$box-shadow: 1px 8px 8px rgba(0, 0, 0, 0.1), -1px -2px 10px rgba(0, 0, 0, 0.1);
+$dirty-white: #f5f7fa;
+$background-gray: #d2d6dc;
+$border-color: #cad1d8;
+$text-black: #484848;
+$input-black: #585858;
+$kindred-1: #e84393;
+$kindred-2: #fd79a8;
 
-$font: Arial, sans-serif;
+$primary: #10ac84;
+$error-red: #eb4d4b;
+$hyperlink-color: #5758BB;
+
+$font: Muli;
+$logo-font: Catamaran;
